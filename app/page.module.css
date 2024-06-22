@@ -1,0 +1,10 @@
+.main {
+  /* background-color: rgb(255, 255, 255); */
+  display: block;
+  min-width: 100vw;
+  min-height: 100vh; 
+  align-content: center;
+  font-family: var(--font-mono);
+  color: var(--text-color);
+  background-color: black;
+}
